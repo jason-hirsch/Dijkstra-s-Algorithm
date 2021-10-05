@@ -1,5 +1,5 @@
-#ifndef GRAPH_H
-#define GRAPH_H
+#ifndef DIJKSTRAS_H
+#define DIJKSTRAS_H
 
 #include <cassert>
 #include <cmath>
@@ -235,4 +235,4 @@ public:
 };
 
 
-#endif  // GRAPH_H
+#endif  // DIJKSTRAS_H
