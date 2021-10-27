@@ -15,7 +15,6 @@
 
 
 class Graph {
-	// TODO(student): implement Graph
 private:
 	struct hash_pair {
 		template <class T>
